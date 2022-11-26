@@ -9,28 +9,26 @@ const About = () => {
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            About
+            Tentang Saya
           </p>
         </div>
 
         <p className="text-xl mt-20">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci
-          quam odio tempore, ullam accusantium praesentium quo, dolores natus
-          voluptatem quas voluptate commodi quae rem incidunt alias corrupti in
-          recusandae libero facilis, officia nisi. Quibusdam aut rerum cumque
-          fuga ullam, nemo delectus! Vero aliquam pariatur earum veritatis totam
-          est repudiandae nobis!
+          Hai, perkenalkan saya Alza Hendrian biasa dipanggil Alza, saya lahir
+          ditangerang. Saya memiliki hobi mengoding dalam berbagai bahasa,
+          seperti Html, Javascript '(DOM)', React Js, dan Next Js. diluar dari
+          itu saya memiliki hobi berenang, bermain musik, hingga bernyanyi dan
+          beberapa hobi lainnya.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          explicabo fugit, molestiae facere consequatur aspernatur sint vitae
-          repellat corrupti iste dolorum culpa in pariatur. Culpa quod eum
-          ducimus consequatur possimus molestias labore cumque nisi enim quidem!
-          Asperiores, cupiditate? Esse ducimus dignissimos dolorum quas atque a
-          officia numquam voluptatum accusamus molestias!
+          Saya adalah pribadi yang mandiri, pekerja keras, ulet dan komunikatif.
+          Usia saya saat ini 23 tahun, saya anak ke-2 dari 3 bersaudara. Saya
+          senang bekerja di dalam tim maupun individu dan menyukai hal yang
+          bersifat menambah pengetahuan. Saya sudah terbiasa bekerja dibawah
+          tekanan dan selalu mencari solusi tanpa mengenal kata menyerah.
         </p>
       </div>
     </div>

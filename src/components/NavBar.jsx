@@ -8,11 +8,11 @@ const NavBar = () => {
   const links = [
     {
       id: 1,
-      link: "home",
+      link: "beranda",
     },
     {
       id: 2,
-      link: "about",
+      link: "tentang saya",
     },
     {
       id: 3,
@@ -20,11 +20,11 @@ const NavBar = () => {
     },
     {
       id: 4,
-      link: "experience",
+      link: "pengalaman",
     },
     {
       id: 5,
-      link: "contact",
+      link: "kontak",
     },
   ];
 
